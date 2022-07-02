@@ -695,6 +695,9 @@ video {
 .overflow-x-auto {
   overflow-x: auto;
 }
+.overflow-y-scroll {
+  overflow-y: scroll;
+}
 .whitespace-nowrap {
   white-space: nowrap;
 }
